@@ -66,4 +66,9 @@ $ cast --help
 ```
 
 ### End
+```shell
+$ forge --help
+$ anvil --help
+$ cast --help
+```
 
